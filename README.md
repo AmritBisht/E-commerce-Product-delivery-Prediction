@@ -1,5 +1,5 @@
 # E-Commerce Product Delivery Prediction
-![](https://www.freepik.com/free-vector/delivery-staff-ride-motorcycles-shopping-concept_11878958.htm#query=ecommerce%20delivery&position=0&from_view=keyword&track=ais&uuid=47f55170-f997-4b12-9e8a-50ba34612230)
+![](https://i0.wp.com/blog.locus.sh/wp-content/uploads/2020/03/Future-of-Ecommerce-Same-day-and-time-based-delivery.jpg?resize=1024%2C640&ssl=1.jpg)
 ## Project Overview:
 The aim of this project is to predict whether products from an international e-commerce company will reach customers on time or not. Additionally, the project analyzes various factors influencing product delivery and studies customer behavior. The company primarily sells electronic products.
 
