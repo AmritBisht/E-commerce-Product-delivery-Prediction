@@ -21,6 +21,15 @@ The dataset used for model building contains 10,999 observations of 12 variables
 | Weight_in_gms        | Weight of the product in grams                         |
 | Reached.on.Time_Y.N  | Target variable (1 - Product did not reach on time, 0 - Product reached on time) |
 
+# Machine Learning Models :
+
+I Used following models to predict the product delivery:
+
+Random Forest Classifier\
+Decision Tree Classifier\
+Logistic Regression\
+K Nearest Neighbors\
+
 ## Conclusion:
 The project aimed to predict product delivery timeliness while examining factors affecting delivery and customer behavior. Exploratory data analysis revealed that product weight and cost significantly impact delivery. Products weighing between 2500 - 3500 grams and costing less than $250 had a higher likelihood of timely delivery. Most products were shipped from Warehouse F via ship, suggesting its proximity to a seaport.
 
