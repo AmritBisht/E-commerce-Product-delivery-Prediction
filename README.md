@@ -21,7 +21,7 @@ The dataset used for model building contains 10,999 observations of 12 variables
 | Weight_in_gms        | Weight of the product in grams                         |
 | Reached.on.Time_Y.N  | Target variable (1 - Product did not reach on time, 0 - Product reached on time) |
 
-# Machine Learning Models :
+# Models Development :
 
 I Used following models to predict the product delivery:
 
